@@ -1,8 +1,4 @@
-# 🍔 Buen Sabor
-
-Bienvenido a **Buen Sabor**, una solución integral para la gestión de locales de comidas rápidas. Este proyecto está diseñado para facilitar la administración de productos, pedidos y usuarios, integrando tecnologías modernas y una arquitectura robusta.
-
----
+# 🍔 Changuito
 
 ## 🚀 Tecnologías Utilizadas
 
@@ -43,33 +39,3 @@ Bienvenido a **Buen Sabor**, una solución integral para la gestión de locales 
      ```bat
      mvnw.cmd spring-boot:run
      ```
-
-5. **Accede a la API**
-   - [http://localhost:8080](http://localhost:8080)
-   - Documentación interactiva: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
-
----
-
-## 🧩 Módulos Principales
-
-- **Usuarios:** Registro, autenticación (incluyendo Google OAuth2), gestión de roles y permisos.
-- **Productos:** Administración de productos, categorías y stock.
-- **Pedidos:** Creación, seguimiento y gestión de pedidos.
-- **Pagos:** Integración con MercadoPago para pagos online.
-- **Seguridad:** Protección de endpoints con JWT y OAuth2.
-- **Documentación:** API documentada y navegable con Swagger UI.
-- **Utilidades:** Uso de MapStruct para mapeo de entidades y Lombok para reducir boilerplate.
-
----
-
-## 👥 Integrantes del Grupo
-
-- Luciano Losada
-- Juan Guerrero
-- Ignacio Molina
-- Gabriel Kitanovich
-- Julian Ortega
-
----
-
-¡Gracias por visitar nuestro proyecto! Si tienes dudas o sugerencias, no dudes en contactarnos.
